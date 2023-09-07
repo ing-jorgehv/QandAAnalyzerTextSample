@@ -1,2 +1,2 @@
-# QandAAnalyzerTextSample
-Analyzer Text for Q&amp;A chat
+# QandAanalyzerTextSample
+Analyzer Text for Q&A chat using python
